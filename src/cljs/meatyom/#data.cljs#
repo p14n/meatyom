@@ -1,5 +1,0 @@
-(ns meatyom.core
-  (:require [clojure.browser.repl]
-            [om.core :as om :include-macros true]))
-
-

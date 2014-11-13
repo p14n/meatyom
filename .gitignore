@@ -11,3 +11,4 @@ out
 .boot
 .nrepl-history
 .repl
+*.*#

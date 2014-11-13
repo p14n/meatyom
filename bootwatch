@@ -1,1 +1,1 @@
-boot watch speak cljs-repl cljs -usO none reload
+boot watch speak cljs-repl cljs -o public/app.js -usO none reload

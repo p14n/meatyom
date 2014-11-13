@@ -5,7 +5,8 @@
                   [adzerk/boot-cljs-repl "0.1.5"       :scope "test"]
                   [adzerk/boot-reload    "0.1.3"       :scope "test"]
                   [om "0.7.0"]
-                  [datascript "0.5.1"]])
+                  [datascript "0.5.1"]
+                  [reagent "0.2.0"]])
 
 (require
   '[adzerk.boot-cljs      :refer :all]
