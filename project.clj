@@ -8,7 +8,8 @@
                  [compojure "1.1.8"]
                  [enlive "1.1.5"]
                  [om "0.7.0"]
-                 ]
+                 [reagent "0.2.0"]
+                 [org.clojars.franks42/cljs-uuid-utils "0.1.3"]]
   :resource {
              :resource-paths ["resources"]
              :target-path "target/classes"
