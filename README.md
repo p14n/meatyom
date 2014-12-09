@@ -1,13 +1,11 @@
 # meatyom
 
-A Clojure library designed to ... well, that part is up to you.
-
 ## Usage
 
-* Go though intermediate
-* Print the stream for datomic
-* Print the stream for datascript
-* Figure out how to restrict the view of the object
+* get client server echo chat working
+* stream datomic to client
+* send updates straight to datomic
+* register hooks to feed client ids
 
 ## License
 
